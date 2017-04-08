@@ -11,11 +11,11 @@
 
 @font-face{
     font-family: Adam-CG;
-    src: url("fonts/ADAM.CG PRO.otf");
+    src: url("fonts/ADAM.CGPRO.otf");
 }
 @font-face{
     font-family: Moonlight;
-    src: url("fonts/Moon Light.otf");
+    src: url("fonts/MoonLight.otf");
 }
 
 body{
@@ -64,7 +64,7 @@ body{
 
 
 .hello{
-    font-family: MoonLight;
+    font-family: Adam-CG !important;
     text-align: center;
     position: absolute;
     top: 25%;
