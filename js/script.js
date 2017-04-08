@@ -1,4 +1,5 @@
 $(function() {
+
     setTimeout(function() {
         $('.first .hello').hide().fadeOut()
     }, 3500);
