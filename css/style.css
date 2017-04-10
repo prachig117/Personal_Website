@@ -1,21 +1,21 @@
 
 @font-face{
     font-family: Inconsolata;
-    src: url("fonts/Inconsolata-Regular.ttf");
+    src: url("../fonts/Inconsolata-Regular.ttf");
 }
 
 @font-face{
     font-family: Parisish;
-    src: url("fonts/Parisish.ttf");
+    src: url("../fonts/Parisish.ttf");
 }
 
 @font-face{
     font-family: Adam-CG;
-    src: url("fonts/ADAM.CGPRO.otf");
+    src: url("../fonts/ADAM.CGPRO.otf");
 }
 @font-face{
     font-family: Moonlight;
-    src: url("fonts/MoonLight.otf");
+    src: url("../fonts/MoonLight.otf");
 }
 
 body{
@@ -68,7 +68,7 @@ body{
     text-align: center;
     position: absolute;
     top: 25%;
-    left: 30%;
+    left: 33%;
     font-size: 10vw;
 }
 
@@ -78,7 +78,7 @@ body{
 
 .name-links .hello{
     top: 23%;
-    left: 25%;
+    left: 23%;
 }
 
 .name-links .links{
